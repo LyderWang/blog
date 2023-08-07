@@ -1,2 +1,2 @@
 ## misc
-  - [Introduce](blog_1_Introduce.md)
+  - [Introduce](blog/misc/Introduce.md)
