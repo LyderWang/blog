@@ -65,4 +65,3 @@ ll power(ll a,ll b,ll p)
     return ans;
 }
 ~~~
-
