@@ -3,7 +3,7 @@
 |  类型  |                             名称                             |    日期    |
 | :----: | :----------------------------------------------------------: | :--------: |
 |  Misc  | [Introduce](https://lyderwang.github.io/blog/blog/misc/Introduce.html) | 2023/08/08 |
-| coding | [c++快速幂](https://lyderwang.github.io/blog/coding/c%2B%2B%E9%AB%98%E7%B2%BE%E5%BA%A6.md) | 2023/08/09 |
+| coding | [c++快速幂](https://lyderwang.github.io/blog/coding/c++快速幂.md) | 2023/08/09 |
 |        |                             []()                             |            |
 |        |                             []()                             |            |
 |        |                             []()                             |            |
