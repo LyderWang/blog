@@ -2,7 +2,6 @@
      It will be read and overwritten.
      DO NOT EDIT! -->
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE>
 <H1>Bookmarks</H1>
 <DL><p>
     <DT><H3  LAST_MODIFIED="1690353277">goods</H3>
