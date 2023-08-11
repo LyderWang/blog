@@ -9,10 +9,9 @@
         });
     </script>
 </head>
-
 # 二分查找
-
  **==<font size=10>二分查找的范围必须是有序的</font>==**
+ 
 $$
 \text{搜索区间}=\begin{cases}
 [l,mid],&\text{target}>=a[mid]\\ 
