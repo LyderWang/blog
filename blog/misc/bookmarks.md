@@ -1,6 +1,3 @@
-<!-- This is an automatically generated file.
-     It will be read and overwritten.
-     DO NOT EDIT! -->
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <H1>Bookmarks</H1>
 <DL><p>
@@ -116,10 +113,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/github?logo=github&link=https%3A%2F%2Fgithub.com%2FLyderWang%2F">
     <img alt="Static Badge" src="https://img.shields.io/badge/Back_to_homepage?link=https%3A%2F%2Flyderwang.github.io%2F">
 </DL><p>
-<H1>CTF</H1>
-<DL><p>
-    c
-</DL><p>
 <H1>环球影城</H1>
 <DL><p>
     <DT><A HREF="https://www.bilibili.com/video/BV1kP411Z79w/?spm_id_from=333.788.recommend_more_video.-1">北京环球影城贵宾VIP体验到底怎么样？包含什么内容？详细完整分享</A>
@@ -130,5 +123,6 @@
     <DT><A HREF="https://www.bilibili.com/video/BV1gP4y1u7NV/?spm_id_from=333.337.search-card.all.click">北京环球影城丨哈利波特十级学者都不知道的城堡细节</A>
     <DT><A HREF="https://www.bilibili.com/video/BV1hR4y1V7na/?spm_id_from=333.999.0.0">北京环球影城丨罗琳：你真的玩明白哈利波特园区了吗？</A>
     <DT><A HREF="https://www.bilibili.com/video/BV1ci4y1X7dk/?spm_id_from=333.999.0.0">北京环球影城丨带你沉浸式体验变形金刚基地（内含过山车游玩视角）</A>
+    <DT><A HREF="https://www.bilibili.com/video/BV1C44y1G7Db/?spm_id_from=333.999.0.0">北京环球影城丨谁说小黄人乐园只适合孩子玩？！</A>
 </DL><p>
 <!--模版：<DT><A HREF="        link          ">            name            </A>-->
