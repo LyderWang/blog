@@ -102,6 +102,7 @@
             <DT><A HREF="https://docs.djangoproject.com/zh-hans/4.2/intro/tutorial01/">Django教程</A>
             <DT><A HREF="halo.run">halo-强大易用的开源建站工具</A>
             <DT><A HREF="https://halo.run/store/apps/app-MgZJX">halo的一个主题</A>
+            <DT><A HREF="https://www.bilibili.com/video/BV1ri4y117t9/?spm_id_from=333.999.0.0">【ACICFG】空中浩劫S22E04：跨越空运(卡博航空货运)671号班机【1080P 双语字幕v2】</A>
         </DL><p>
     </DL><p>
 </DL><p>
